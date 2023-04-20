@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/player/app/src/main/res/drawable/ic_back.xml" value="0.2375" />
+        <entry key="..\:/player/app/src/main/res/drawable/ic_playlist_play_24.xml" value="0.2375" />
+        <entry key="..\:/player/app/src/main/res/drawable/ic_round_forward_10.xml" value="0.2375" />
+        <entry key="..\:/player/app/src/main/res/drawable/ic_round_lock.xml" value="0.2375" />
+        <entry key="..\:/player/app/src/main/res/drawable/ic_round_lock_open.xml" value="0.2375" />
+        <entry key="..\:/player/app/src/main/res/drawable/ic_round_pause.xml" value="0.2375" />
+        <entry key="..\:/player/app/src/main/res/drawable/ic_round_play.xml" value="0.2375" />
+        <entry key="..\:/player/app/src/main/res/drawable/ic_round_replay_10.xml" value="0.2375" />
+        <entry key="..\:/player/app/src/main/res/drawable/ic_round_skip_next.xml" value="0.2375" />
+        <entry key="..\:/player/app/src/main/res/drawable/ic_round_skip_previous.xml" value="0.2375" />
+        <entry key="..\:/player/app/src/main/res/drawable/more_opition.xml" value="0.2415" />
+        <entry key="..\:/player/app/src/main/res/drawable/rateus.xml" value="0.2415" />
+        <entry key="..\:/player/app/src/main/res/drawable/seekthumb.xml" value="0.2235" />
+        <entry key="..\:/player/app/src/main/res/layout/activity_allowaccess.xml" value="0.23541666666666666" />
+        <entry key="..\:/player/app/src/main/res/layout/activity_main.xml" value="0.23541666666666666" />
+        <entry key="..\:/player/app/src/main/res/layout/activity_main2.xml" value="0.23541666666666666" />
+        <entry key="..\:/player/app/src/main/res/layout/activity_videofiles.xml" value="0.23541666666666666" />
+        <entry key="..\:/player/app/src/main/res/layout/activity_videopalyer.xml" value="0.23541666666666666" />
+        <entry key="..\:/player/app/src/main/res/layout/activity_videoplayercontrol.xml" value="0.176" />
+        <entry key="..\:/player/app/src/main/res/layout/custom_controller.xml" value="0.176" />
+        <entry key="..\:/player/app/src/main/res/layout/videofiles.xml" value="0.264" />
+        <entry key="..\:/player/app/src/main/res/layout/videoitem.xml" value="0.3186119873817035" />
+        <entry key="..\:/player/app/src/main/res/layout/videoslist.xml" value="0.23541666666666666" />
+        <entry key="..\:/player/app/src/main/res/menu/folder_menu.xml" value="0.23541666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
